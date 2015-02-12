@@ -1,0 +1,7 @@
+*.cbp
+*.layout
+*.depend
+*.o
+*.out
+*.tar*
+*.csv
